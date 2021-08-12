@@ -1,6 +1,6 @@
 # Event Management System 
 
-[API Documetation]
+[Postman API Collection]
 
 ## Required Tools And Technology Stack
 * Node.js - Javascript Runtime for Servers.
